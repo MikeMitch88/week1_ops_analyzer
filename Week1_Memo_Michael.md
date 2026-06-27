@@ -1,3 +1,15 @@
+# Week 1: Operational Efficiency Analyzer
+### Target Audience: Junior Analysts / Team Leads
+
+This notebook automates the tracking of daily team performance across our corporate support office. 
+Instead of calculating performance metrics manually, this script introduces automated tracking logic to quickly flag teams that are hitting targets, falling slightly behind, or requiring immediate assistance.
+
+**Key Components:**
+1. `calculate_efficiency`: A reusable logic block that computes performance percentages.
+2. `get_operational_status`: A classifier that applies business rules to categorize performance.
+3. Data Modeling: A structured data setup representing our active customer support departments.
+4. Execution Loop: A process that automatically reviews each team and prints an executive summary report.
+
 To: Senior Operations Manager
 
 From: Michael Randa
