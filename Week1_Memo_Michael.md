@@ -1,6 +1,9 @@
 To: Senior Operations Manager
+
 From: Michael Randa
+
 Subject: Operational Efficiency Tracker & Automated Alert System
+
 1. CONTEXT: Why Automate Our Performance Tracking?
 In a fast-paced customer support office, managing team performance manually is like trying to steer a ship by looking at yesterday's weather report. Currently, evaluating whether our support teams are meeting their daily goals requires pulling manual logs and calculating percentages long after the day is done.
 To fix this, we have built an automated tracking system. Automation allows us to continuously monitor live office activity comparing the actual volume of support tickets resolved against daily performance targets without adding an extra administrative burden to our team leads.
